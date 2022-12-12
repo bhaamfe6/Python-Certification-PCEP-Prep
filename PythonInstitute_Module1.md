@@ -8,7 +8,7 @@
 <p>Computers have their own language called <b>machine language.</b> </p>
 <br>
 <br>
-<p>A complete set of known commands is called an <b>insteruction list</b> sometimes <b>IL</b></p>
+<p>A complete set of known commands is called an <b>instruction list</b> sometimes <b>IL</b></p>
 <br>
 <br>
 <h2>What Makes a Language</h2>
