@@ -153,7 +153,41 @@ Try:
 <li>The second convention allows us to use <b>hexadecimal</b> numbers. Such numbers should be preceded by the prefix <b>0X or 0x</b>(zero-x). 
 <br><b>0x123</b> is a <b><u>hexadecimal</b></u> number with a (decimal) value equal to <b>291</b>. The print() function converts this automatically as well. <br>The print() function will look like<br><b>print(0x123)</b></li></ul>
 
-### **Floats**
+### **Strings and Quotes**
+    Using quotes inside a string can be done by the escape character, which is the backslash, or by using single quotes to open and close the string.
+        For example:
+
+        I like "Monty Python".
+
+        print("I like\"Monty Python\."")
+
+        OR
+
+        print('I like "Monty Python".')
+
+   Likewise, if you want to create a print() function that includes an apostrophe, you can use the escape character or open and close with double quotes.
+        For example:
+
+        I'm Felicia.
+
+        print("I'm Felicia.")
+
+        OR
+
+        print('I\'m Felicia.')
+
+
+ Scenario:
+    Write a one-line print() function that usese the escape character and newline to create the following outcome:
+
+    This is the Expected outcome.
+![escape and newline character](image/escape_and%20newline.png)
+
+This is the one-line code.
+![escape and newline code](image/escape_and%20newline_code.png)
+
+
+
 
 
 
