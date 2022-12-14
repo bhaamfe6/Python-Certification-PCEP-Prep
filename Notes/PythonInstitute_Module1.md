@@ -117,7 +117,7 @@ Both keyword arguments may be mixed in one invocation.
      This is a print() function with a `sep` keyword and iterable (*2).   
     ![larger_arrow](image/larger_arrow.png)
     <br>
-    This is the output of the larger arrow.
+    This is the output of the larger arrow.<br>
     ![Output of larger arrow](image/larger_arrow_output.png)
     <br>
 
@@ -185,6 +185,7 @@ Try:
 
 This is the one-line code.
 ![escape and newline code](image/escape_and%20newline_code.png)
+
 
 
 
