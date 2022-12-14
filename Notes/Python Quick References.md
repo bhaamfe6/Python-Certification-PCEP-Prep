@@ -41,7 +41,7 @@ Example of string casting<br>
 |:---      | :--- | :--- |
 | Tuples   | ordered, unchangeable, indexed, and allow duplicates values | created with ()      |
 | Set      | unordered, unchangeable, and unindexed | created with {}     |
-| Dictionary | ordered, changeable and do not allow duplicates | store `key:value` pairs     |
+| Dictionary | ordered, changeable and do not allow duplicates | store in `key:value` pairs     |
 ---
 
 Example of syntax for a List.<br>
@@ -56,5 +56,56 @@ Example of syntax for a Set.<br>
 Example of syntax for a Dictionary.<br>
 ![example of a dictionary](image/dictionary_example.png)<br>
 
+# Python Conditions and If Statements
+
+Logical conditions from mathematics:
+- Equals: a == b
+- Not Equals: a!= b
+- Less than: a < b
+- Greater than: a> b
+- Greater than or equal to: a>= b
+
+If statements use the if keyword.
+<br>
+![Example of `if` statement](image/if_statement_example.png)<br>
+
+This is the outcome of the if statement example.<br>
+![if statement outcome](image/outcome_of_if_statement.png)<br>
+
+The `elif` keyword is pythons way of saying "if the previous conditions were not true, they try this condition".
+
+Example of elif syntax.<br>
+![example of elif syntax](image/elif_example.png)<br>
+
+The `else` keyword ends the the `if`, `elif`, `else` loop. 
+
+Example of Else syntax.<br>
+![example of else syntax](image/else_example.png)<br>
+
+## Python Loops
+
+Python has two primitive loop commands:
+- while loops
+- for loops
+
+While loops execute a set of statements as long as the condition is met.
+
+Example of while loop.<br>
+![while loop syntax](image/while_loop_example.png)<br>
+
+**The break Statement**
+The `break` statement stops the loop even if the while condition is true.
+
+Use of break statement.<br>
+![use of break statement](image/break_statement.png)<br>
+
+## Python for Loops
+
+A `for` loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+Example of for loop.<br>
+![exmple of for loop](image/for_loop.png)<br>
+
+The break statement can stop a for loop as well.
 
 
