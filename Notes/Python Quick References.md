@@ -37,7 +37,7 @@ Example of string casting<br>
 
 
 ---
-| List     | order, changeable, indexed, and allow duplicate values  | created []      |
+| List     | ordered, changeable, indexed, and allow duplicate values  | created with []      |
 |:---      | :--- | :--- |
 | Tuples   | ordered, unchangeable, indexed, and allow duplicates values | created with ()      |
 | Set      | unordered, unchangeable, and unindexed | created with {}     |
@@ -62,8 +62,8 @@ Logical conditions from mathematics:
 - Equals: a == b
 - Not Equals: a!= b
 - Less than: a < b
-- Greater than: a> b
-- Greater than or equal to: a>= b
+- Greater than: a > b
+- Greater than or equal to: a >= b
 
 If statements use the if keyword.
 <br>
@@ -72,7 +72,7 @@ If statements use the if keyword.
 This is the outcome of the if statement example.<br>
 ![if statement outcome](image/outcome_of_if_statement.png)<br>
 
-The `elif` keyword is pythons way of saying "if the previous conditions were not true, they try this condition".
+The `elif` keyword is pythons way of saying "if the previous conditions were not true, then try this condition".
 
 Example of elif syntax.<br>
 ![example of elif syntax](image/elif_example.png)<br>
@@ -94,6 +94,7 @@ Example of while loop.<br>
 ![while loop syntax](image/while_loop_example.png)<br>
 
 **The break Statement**
+
 The `break` statement stops the loop even if the while condition is true.
 
 Use of break statement.<br>
