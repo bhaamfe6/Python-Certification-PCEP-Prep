@@ -101,6 +101,8 @@ Use of break statement.<br>
 ![use of break statement](image/break_statement.png)<br>
 
 Another example of a `while` loop with a `if` statement.<br>
+Example of a while loop with if statement<br>
+![example of while loop and if statement](image/while_if.png)<br>
 
 
 ## Python for Loops
@@ -111,7 +113,6 @@ Example of for loop.<br>
 ![exmple of for loop](image/for_loop.png)<br>
 
 The break statement can stop a for loop as well.
-Example of a while loop with if statement<br>
-![example of while loop and if statement](image/while_if.png)<br>
+
 
 
