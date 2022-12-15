@@ -100,6 +100,9 @@ The `break` statement stops the loop even if the while condition is true.
 Use of break statement.<br>
 ![use of break statement](image/break_statement.png)<br>
 
+Another example of a `while` loop with a `if` statement.<br>
+
+
 ## Python for Loops
 
 A `for` loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
@@ -108,5 +111,7 @@ Example of for loop.<br>
 ![exmple of for loop](image/for_loop.png)<br>
 
 The break statement can stop a for loop as well.
+Example of a while loop with if statement<br>
+![example of while loop and if statement](image/while_if.png)<br>
 
 
