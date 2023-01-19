@@ -186,6 +186,33 @@ Try:
 This is the one-line code.
 ![escape and newline code](image/escape_and%20newline_code.png)
 
+## **Concantenate**
+
+Use the + symbol and * to concantenate and multiple string characters.
+
+For example,
+This is the use of the plus symbol and asterisk to concantenate and multiply string characters.<br>
+![Plus symbol used to concantenate](image/plus_symbol_concantenate.png)
+
+This is the outcome of the concantenation<br>
+![Outcome of the concantation code](image/outcome%20of%20plus%20symbol%20concantenation.png)
+
+## **Python Operators and Parenthese**
+
+This is an example of Python division operator and the use of parenthese.
+<br>
+![division and parenthese](image/division_operator_and_parenthese.png)<br>
+This is the outcome of the division operator using parentheses.<br>
+![division code and parenthese](image/code%20for%20division%20and%20parenthese.png)<br>
+<br>
+This is the output when the input is 1...
+<br>
+![input 1 with division operator](image/input_1_division%20operator.png)<br><br>
+This is the output when the input is -5...
+<br>
+![input -5 with division operator](image/output%20-5_division%20operator.png)<br><br>
+
+
 
 
 
