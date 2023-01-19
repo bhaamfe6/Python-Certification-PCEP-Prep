@@ -19,7 +19,7 @@
 <li>semantics</li></ul></p>
 <br>
 <br>
-<p>A program written in high0level programming language is called a <b>source code</b>. The file containing the source code is called the <b>source file</b>.</p>
+<p>A program written in high level programming language is called a <b>source code</b>. The file containing the source code is called the <b>source file</b>.</p>
 <br>
 <p>There are two different ways of transforming a program from a high-level programming language into machine learning, <b>COMPILATION: </b><ul>The source program is translated once.  This must be repeated each time you modify the source code.</ul><ul>The execution of the translated code is usually faster; 
 <br>Only the user has to have theh compiler - the end-user may use the code without it;
@@ -142,7 +142,7 @@ However, if you input c and execute, it will not output c because c is not a lit
 
 There are two additional conventions in Python that are unknown to the world of mathematics.
 
-<ul><li>The first allows us to us numbers in an <b>octal</b> representation.
+<ul><li>The first allows us to use numbers in an <b>octal</b> representation.
 <br><br>If an integer number is preceded by an <b>0O or 0o</b> (referred to as zero-o), it will be treated as an octal value.  This means that the number must contain digits taken from the [0...7] range only (0-7 is 8 digits, oct' - meaning 8).
 <br><b<b>0o123</b> is an <b>octal</b> number with a (decimal) value equal to <b>83</b>.
 
@@ -188,7 +188,7 @@ This is the one-line code.
 
 ## **Concantenate**
 
-Use the + symbol and * to concantenate and multiple string characters.
+Use the + symbol and * to concantenate and replicate string characters.
 
 For example,
 This is the use of the plus symbol and asterisk to concantenate and multiply string characters.<br>
