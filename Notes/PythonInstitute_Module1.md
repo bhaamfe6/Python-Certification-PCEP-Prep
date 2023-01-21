@@ -26,7 +26,7 @@
 <br>
 The translated code is stored using machine language - it is very hard to understand it.</ul></p>
 <br>
-<p><b>INTERPRETATION:</b><ul>You can translate the source program each time it has to be run; the probram performing this kind of transformation is called an interpreter, as it interprets the code every time it is inteded to be executed; it also means that you cannot just distribute the source code as-is because the end-user also needs the interpreter to execute it.</ul><ul>you can run the code as soon as you complete it - there are no additional phases or translation;</ul><ul>the code is stored using programming language, not machine language - this means that it can be run on computers using different machine languages, you udon't compile yor code separately for each different architecture.</ul><ul>It's can't be really fast, this is a disadvantage. Also you and the end user have to have the interpreter to run your code.</ul></p>
+<p><b>INTERPRETATION:</b><ul>You can translate the source program each time it has to be run; the program performing this kind of transformation is called an interpreter, as it interprets the code every time it is inteded to be executed; it also means that you cannot just distribute the source code as-is because the end-user also needs the interpreter to execute it.</ul><ul>you can run the code as soon as you complete it - there are no additional phases or translation;</ul><ul>the code is stored using programming language, not machine language - this means that it can be run on computers using different machine languages, you udon't compile yor code separately for each different architecture.</ul><ul>It's can't be really fast, this is a disadvantage. Also you and the end user have to have the interpreter to run your code.</ul></p>
 <br>
 <br>
 <h2>FUNCTIONS</h2>
@@ -211,6 +211,53 @@ This is the output when the input is 1...
 This is the output when the input is -5...
 <br>
 ![input -5 with division operator](image/output%20-5_division%20operator.png)<br><br>
+
+# **BOOLEAN VALUES, CONDITIONAL EXECUTION, LOOPS, LISTS AND LIST PROCESSING, LOGICAL AND BITWISE OPERATIONS**
+
+- The Boolean data type
+- Relational operators
+- Making decisions in Python (if, if-else, if-elif, else)
+- How to repeat code execution using loops (while, for)
+- How to perform logic and bitwise operations in Python
+Lists in Python (constructing, indexing, and slicing; content manipulation)
+- How to sort a list using bubble-sort algorithms
+- Multidimensional lists and their applications.
+
+Programmers ask questions and create programs to ask and answer those questions.  The questions are usually answer as
+    
+    yes, True
+     OR
+    no, False
+
+## **Comparison: Equality and Inequality Operators**
+
+One question to ask is whether or not two values are equal.
+
+This done using the  `==` operator, not `=`.
+
+The distinction is that `==` is a comparison operator and `=` assigns a value to a variable.
+
+The `==` operator is a **left-binding binary** operator.
+This is an example of code showing the `==` operator.<br>
+![code showing the == operator in Python IDLE](image/comparison_operator.png)<br>
+<br>
+This is the outcome of the comparison operator.<br>
+![output of == operator in a print() function](image/output%20of%20comparison%20operator.png)<br><br>
+
+### **Greater Than**
+The greater than `>` operator will either result in **True** to confirm it or **False** to deny it.
+
+The same applies to the following operators:
+- < Less Than
+- != Not Equal to
+
+**Scenario:**
+Using one of the comparison operators in Python, write a simple two-line program that takes the parameter `n` as input, which is an integer, and prints `False` if `n` is less than `100`, and `True` if `n` is greater than or equal to `100`.
+
+This is what I've come up with.<br>
+![comparison Scenario](image/comparision_scenario.png)<br>
+
+
 
 
 
