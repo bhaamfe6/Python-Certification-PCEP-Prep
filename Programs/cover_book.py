@@ -1,4 +1,4 @@
-#Felicia Royal-Baham December 7, 2022
+#FRB December 7, 2022
 #ThinkPython2e 2.10 Exercise
 #Create a function that adds the total wholesale cost and shipping price of a book
 
